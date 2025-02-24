@@ -1,4 +1,4 @@
-// Description: Main page component with delete student functionality
+// Description: Main page component
 "use client";
 import { useState, useEffect } from "react";
 import Navbar from "../../components/Navbar";

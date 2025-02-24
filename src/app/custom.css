@@ -27,7 +27,7 @@
     animation: fadeInOut 3s ease-in-out;
 }
 
-/* Basic page transitions without hover effects */
+/* Page transitions without hover effects */
 .page-transition {
     transition: all 0.3s ease-in-out;
 }
@@ -165,7 +165,6 @@ nav .hover\:bg-blue-700:hover {
 .submit-button {
     width: 100%;
     background-color: #2563eb;
-    /* Tailwind blue-600 */
     color: white;
     font-weight: 600;
     padding: 0.75rem 1rem;
